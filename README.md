@@ -1,5 +1,4 @@
-# Objek-Tracking-Odrive
-if you want to ask us, please visit www.infinitigroup.co.id
+# Objek Tracking With Hikvision Camera for 100m Object Tracker 
 
 ### Pre-requisite
 - Python 3
