@@ -36,3 +36,7 @@ vs = VideoStream(src="Your RTSP / IP and Port Address").start()
 - mosse
 
 executing the tracking method : `python objek-tracking.py --tracker boosting` . but for default, when execute `python objek-tracking.py`,  `csrt` method is used.
+
+###Actuator
+for output, we use an Odrive v3.6 Driver motor, please check [this](https://odriverobotics.com/) for detail.
+
