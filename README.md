@@ -42,6 +42,6 @@ executing the tracking method : `python objek-tracking.py --tracker boosting` . 
 for output, we use an Odrive v3.6 Driver motor, please check [this](https://odriverobotics.com/) for detail.
 
 ### Camera
-for camera, we use an `onvif` method to control Pan-tilt-zoom of Hikvision Camera read [this] (http://onvif.org). the result video will be streamed with RTSP protocol. check this tutorial [video] (https://www.youtube.com/watch?v=xGYcYtCvT2Y) 
+for camera, we use an `onvif` method to control Pan-tilt-zoom of Hikvision Camera read [this](http://onvif.org). the result video will be streamed with RTSP protocol. check this tutorial [video](https://www.youtube.com/watch?v=xGYcYtCvT2Y) 
 
 
